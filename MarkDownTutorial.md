@@ -25,9 +25,13 @@ let age = 27;
 
 # Paragraph
 **bold**
+
 *italic*
+
 _italic_
+
 __bold__
+
 Gabby is ~~really cool~~!
 
 ---
